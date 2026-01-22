@@ -371,6 +371,9 @@ The simulation displays:
 
 Add the console output screenshot in the `output/` folder and name it as `simulation_output.png`.
 
+![Output File](https://github.com/user-attachments/assets/aaa413f8-70bc-4958-88e3-0f994c6c2dd2)
+
+
 ---
 
 ##  Applications
